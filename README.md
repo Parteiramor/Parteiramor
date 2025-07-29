@@ -20,6 +20,10 @@ Current focus:
 ![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?style=flat-square&logo=intellij-idea)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 
+### 🧠 Problem Solving Practice
+- [![LeetCode](https://leetcode.com/u/parteiramor)
+- [NeetCode](https://neetcode.io/) – following the structured roadmap for interview prep
+
 Let's connect
 ![LinkedIn]https://www.linkedin.com/in/xoli-nogwandana-689044290/
 
