@@ -46,14 +46,10 @@ Originally from South Africa. Now based in Riyadh. My nursing career showed me h
 
 Open to health tech internships, remote opportunities, and connecting with people solving problems in healthcare.
 
-🔗 [LinkedIn](#) ← add your URL here
+🔗 [LinkedIn]https://www.linkedin.com/in/xoli-nogwandana-689044290/)
 
-### Let's connect
-- [LinkedIn]https://www.linkedin.com/in/xoli-nogwandana-689044290/)
-- [Github](https://github.com/Parteiramor/)
 
 🧪 *"My goal is to build practical, helpful tools — especially in the intersection of healthcare and technology."*
-
 
 
 <!---
