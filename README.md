@@ -1,31 +1,52 @@
-Hi, I’m Xoli 👋
+# Hi, I'm Xoli 👋
 
-I'm a nurse making a career pivot into tech. I am currently studying Computer Science and buliding solo projects to apply what I'm learning - one step step at a time.
+Registered nurse transitioning into health tech. First-year CS student. Building software that gives nurses time back for patient care.
 
-- 10 years in healthcare
-- Studying CS since 2024
-- Passionate about healthcare-tech innovation
-- Currently working on: # Professional Competency Tracker and a # Hospital Management System 
-- Learning Java, Git, problem-solving and full-stack dev
-- ⚡ Fun fact: I love playing video games
+> "I don't need to interview nurses to understand the problem. I am the nurse."
 
-Current focus:
-- Java, OOP and backend basics
-- Github and portfolio builiding
-- Building meaningful apps from scratch
+---
 
-🔧 Tools & Tech
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?style=flat-square&logo=intellij-idea)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+## 🏥 What I'm Building
 
-### 🧠 Problem Solving Practice
-- [LeetCode](https://leetcode.com/u/parteiramor)
-- [NeetCode](https://neetcode.io/) – following the structured roadmap for interview prep
+### 🩺 Competency Tracker — *In Progress*
+A web app for nurses at my hospital that automates tracking of 17 clinical competencies with different renewal periods. Nurses receive alerts before expiry. Managers can download reports.
+
+**Stack:** HTML · CSS · Vanilla JavaScript (frontend) → Java Spring Boot + PostgreSQL (backend planned)
+
+✅ Hospital management approved  |  ✅ Validated by colleagues  |  🔨 Actively building
+
+---
+
+## 🛠 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-Certified-brightgreen)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-✓-brightgreen)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Next-orange)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Planned-lightgrey)
+
+---
+
+## 📚 Currently
+
+- 🎓 BSc Computer Science — Year 1, Semester 2
+- 🏥 Registered Nurse, Riyadh, Saudi Arabia
+- 📜 Hyperskill Frontend Developer Certificate (in progress)
+- 🔨 Building Competency Tracker daily
+
+---
+
+## 🌍 Background
+
+Originally from South Africa. Now based in Riyadh. My nursing career showed me how much time clinical staff lose to manual processes and paperwork. I'm learning to build the tools that fix that.
+
+---
+
+## 📫 Connect
+
+Open to health tech internships, remote opportunities, and connecting with people solving problems in healthcare.
+
+🔗 [LinkedIn](#) ← add your URL here
 
 ### Let's connect
 - [LinkedIn]https://www.linkedin.com/in/xoli-nogwandana-689044290/)
