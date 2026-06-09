@@ -14,7 +14,7 @@ A hospital-approved web application for nurses at my hospital that automates tra
 
 **Stack:** Java · Spring Boot · PostgreSQL · HTML · CSS · JavaScript
 
-✅ Hospital management approved &nbsp;|&nbsp; ✅ Validated by colleagues &nbsp;|&nbsp; 🔨 Actively building &nbsp;|&nbsp; 🎯 Target: Global Health Exhibition, Riyadh — October 2026
+✅ Nursing leadership endorsed &nbsp;|&nbsp; ✅ Validated by colleagues &nbsp;|&nbsp; 🔨 Actively building &nbsp;|&nbsp; 🎯 Target: Global Health Exhibition, Riyadh — October 2026
 
 *Source code private — available on request.*
 
